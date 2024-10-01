@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NetlfixGPT - a movie recommender system with AI-powered search via the Google Gemini API.<br>👯 I’m looking to collaborate on React.js and Java Spring Boot Projects<br>🤝 I’m looking for help with a personal project - DM to know more!<br>🌱 I’m currently learning Next.js<br>⚡ Fun fact The term “bug” was used to describe a glitch in a system originated when a moth caused a malfunction in an early computer.
+🔭 I’m currently working on FlixAI - a movie recommender system with AI-powered search via the Google Gemini API.<br>👯 I’m looking to collaborate on React.js and Java Spring Boot Projects<br>🤝 I’m looking for help with a personal project - DM to know more!<br>🌱 I’m currently learning Next.js<br>⚡ Fun fact The term “bug” was used to describe a glitch in a system originated when a moth caused a malfunction in an early computer.
 
 
 ## 🌐 Socials:
