@@ -1,7 +1,6 @@
 # Hi, I'm Gunjan Rawat 👋
 
 I'm a **Software Developer / Full-Stack Engineer** currently pursuing my **M.S. in Computer Science at Stevens Institute of Technology**.  
-I enjoy building scalable web applications, backend APIs, real-time systems, and AI-powered products using modern full-stack technologies.
 
 My experience spans **Java Spring Boot, React.js, Next.js, TypeScript, Python, FastAPI, PostgreSQL, MySQL, Supabase, and AWS**.  
 I have worked on clinical trial workflow systems, encrypted messaging, AI-based applications, and large-scale LLM evaluation pipelines.
@@ -15,7 +14,6 @@ I have worked on clinical trial workflow systems, encrypted messaging, AI-based 
 - 💻 Interested in **Backend Engineering, Full-Stack Development, Distributed Systems, and Applied AI**
 - 🤝 Open to collaborating on **React.js, Next.js, Java Spring Boot, FastAPI, and database-driven projects**
 - 🌱 Currently improving my skills in **system design, WebSockets, cloud deployment, and scalable backend architecture**
-- ⚡ Fun fact: I enjoy turning complex technical ideas into clean, usable products
 
 ---
 
